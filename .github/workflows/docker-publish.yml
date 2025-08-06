@@ -23,3 +23,4 @@ jobs:
           context: .
           push: true
           tags: mikkelij88/gdk-qr-redirect:latest
+          platforms: linux/amd64,linux/arm64
