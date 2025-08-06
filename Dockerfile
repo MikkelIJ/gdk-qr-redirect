@@ -11,7 +11,7 @@ COPY redirects.yml app.py ./
 RUN pip install flask pyyaml
 
 # Expose Flask default port
-EXPOSE 5000
+EXPOSE 666
 
 # Run the Flask app
 CMD ["python", "app.py"]
