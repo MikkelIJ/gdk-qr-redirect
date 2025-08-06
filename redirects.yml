@@ -1,9 +1,9 @@
 # Example YAML config for disc golf QR redirects
 # Structure: hole: qr: url
 hole1:
-  qr1: "https://example.com/hole1/qr1"
-  qr2: "https://example.com/hole1/qr2"
-  qr3: "https://example.com/hole1/qr3"
+  qr1: "https://imagedelivery.net/gSwsyfyonEyXxR24Q80qjQ/6eca8a96-d692-4811-f039-79a8156a6d00/public"
+  qr2: "https://www.gffi.dk/aktiviteter/disc-golf-grindsted"
+  qr3: "https://www.youtube.com/watch?v=rpMe7jT6OdQ"
 hole2:
   qr1: "https://example.com/hole2/qr1"
   qr2: "https://example.com/hole2/qr2"
