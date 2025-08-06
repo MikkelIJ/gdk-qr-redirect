@@ -1,0 +1,79 @@
+# Example YAML config for disc golf QR redirects
+# Structure: hole: qr: url
+hole1:
+  qr1: "https://example.com/hole1/qr1"
+  qr2: "https://example.com/hole1/qr2"
+  qr3: "https://example.com/hole1/qr3"
+hole2:
+  qr1: "https://example.com/hole2/qr1"
+  qr2: "https://example.com/hole2/qr2"
+  qr3: "https://example.com/hole2/qr3"
+hole3:
+  qr1: "https://example.com/hole3/qr1"
+  qr2: "https://example.com/hole3/qr2"
+  qr3: "https://example.com/hole3/qr3"
+hole4:
+  qr1: "https://example.com/hole4/qr1"
+  qr2: "https://example.com/hole4/qr2"
+  qr3: "https://example.com/hole4/qr3"
+hole5:
+  qr1: "https://example.com/hole5/qr1"
+  qr2: "https://example.com/hole5/qr2"
+  qr3: "https://example.com/hole5/qr3"
+hole6:    
+  qr1: "https://example.com/hole6/qr1"
+  qr2: "https://example.com/hole6/qr2"
+  qr3: "https://example.com/hole6/qr3"
+hole7:
+  qr1: "https://example.com/hole7/qr1"
+  qr2: "https://example.com/hole7/qr2"
+  qr3: "https://example.com/hole7/qr3"
+hole8:
+  qr1: "https://example.com/hole8/qr1"
+  qr2: "https://example.com/hole8/qr2"
+  qr3: "https://example.com/hole8/qr3"
+hole9:
+  qr1: "https://example.com/hole9/qr1"
+  qr2: "https://example.com/hole9/qr2"
+  qr3: "https://example.com/hole9/qr3"
+hole10:                 
+  qr1: "https://example.com/hole10/qr1"
+  qr2: "https://example.com/hole10/qr2"
+  qr3: "https://example.com/hole10/qr3"
+hole11:
+  qr1: "https://example.com/hole11/qr1"
+  qr2: "https://example.com/hole11/qr2"
+  qr3: "https://example.com/hole11/qr3"
+hole12:
+  qr1: "https://example.com/hole12/qr1"
+  qr2: "https://example.com/hole12/qr2"
+  qr3: "https://example.com/hole12/qr3"
+hole13:
+  qr1: "https://example.com/hole13/qr1"
+  qr2: "https://example.com/hole13/qr2"
+  qr3: "https://example.com/hole13/qr3"
+hole14:
+  qr1: "https://example.com/hole14/qr1"
+  qr2: "https://example.com/hole14/qr2"
+  qr3: "https://example.com/hole14/qr3"
+hole15:
+  qr1: "https://example.com/hole15/qr1"
+  qr2: "https://example.com/hole15/qr2"
+  qr3: "https://example.com/hole15/qr3"
+hole16:
+  qr1: "https://example.com/hole16/qr1"
+  qr2: "https://example.com/hole16/qr2"
+  qr3: "https://example.com/hole16/qr3"     
+hole17:
+  qr1: "https://example.com/hole17/qr1"
+  qr2: "https://example.com/hole17/qr2"
+  qr3: "https://example.com/hole17/qr3"
+hole18:
+  qr1: "https://example.com/hole18/qr1"
+  qr2: "https://example.com/hole18/qr2"
+  qr3: "https://example.com/hole18/qr3"
+hole19:
+  qr1: "https://example.com/hole19/qr1"
+  qr2: "https://example.com/hole19/qr2"
+  qr3: "https://example.com/hole19/qr3"
+
